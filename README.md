@@ -1,2 +1,2 @@
-# 30daysOfJavaScript_challenge
-i am doing 30 days of javascript challenge 
+# 10daysOfJavaScript_challenge
+i am doing 10 days of javascript challenge 
